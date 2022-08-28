@@ -1,0 +1,17 @@
+{
+  "name": "jenkins-tutorial",
+  "version": "1.0.0",
+  "description": "Repository for integrating ci/cd pipeline",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jenkins"
+  ],
+  "author": "Susinthiran",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
